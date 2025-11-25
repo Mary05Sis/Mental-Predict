@@ -65,9 +65,10 @@ MODELO PREDICTIVO DE INTERVENCIÓN PARA LA DEPRESIÓN EN ESTUDIANTES DE GRADO SU
 ```
 ### 3. Ejecutamos entorno de desarrollo:
     ```
-   pnpm dev
-```
-# USO
+    pnpm dev
+   ```
+
+USO
      - Accede al dashboard web para explorar datos, visualizar estadísticas y realizar predicciones individualizadas de riesgo de depresión.
 
      - Usa el formulario para ingresar variables clave y obtener el resultado del modelo junto con recomendaciones personalizadas.
