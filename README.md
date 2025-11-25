@@ -1,5 +1,7 @@
 El presente proyecto titulado "MODELO PREDICTIVO DE INTERVENCIÓN PARA LA DEPRESIÓN EN ESTUDIANTES DE GRADO SUPERIOR" es un trabajo elaborado en la asgnatura de "Aprendizaje Estadístico" de la  Universidad Privada Antenor Orrego en la Sede de Trujillo.
+
 Este proyecto se inició desde el 26 de Agosto del 2025 que, con ayuda de mis compañeros de equipo: Pedro Caballero Cáceres, Mauricio Castillo Benites, JordanCastillo Aranda,  Marycielo Velasquez Avalos,   Angel Velasquez Vergara,  Steffano Ventura Florian; logramos culminar un 29 de Noviembre del año 2025.
+
 Pero este proyecto no pudo ser culminado sin la guía de nuestro maestro, el ingeniero Sagastegui Chigne, Hernan, quien con sus consejos de mejora, hemos podido culminar con éxito nuestro producto del presente año.
 
 # OBJETIVO DEL PROYECTO 
@@ -60,7 +62,7 @@ Pero este proyecto no pudo ser culminado sin la guía de nuestro maestro, el ing
 ### 3. Ejecutamos entorno de desarrollo:
     ```
     pnpm dev
-   ```
+
 # USO
      - Accede al dashboard web para explorar datos, visualizar estadísticas y realizar predicciones individualizadas de riesgo de depresión.
 
