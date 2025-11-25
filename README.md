@@ -1,12 +1,6 @@
-# Grupo 01
-MODELO PREDICTIVO DE INTERVENCIÓN PARA LA DEPRESIÓN EN ESTUDIANTES DE GRADO SUPERIOR
-## Integrantes:
-- Caballero Cáceres, Pedro
-- Castillo Benites, Mauricio
-- Castillo Aranda. Jordan
-- Velasquez Avalos, Marycielo
-- Velasquez Vergara, Angel
-- Ventura Florian Steffano
+El presente proyecto titulado "MODELO PREDICTIVO DE INTERVENCIÓN PARA LA DEPRESIÓN EN ESTUDIANTES DE GRADO SUPERIOR" es un trabajo elaborado en la asgnatura de "Aprendizaje Estadístico" de la  Universidad Privada Antenor Orrego en la Sede de Trujillo.
+Este proyecto se inició desde el 26 de Agosto del 2025 que, con ayuda de mis compañeros de equipo: Pedro Caballero Cáceres, Mauricio Castillo Benites, JordanCastillo Aranda,  Marycielo Velasquez Avalos,   Angel Velasquez Vergara,  Steffano Ventura Florian; logramos culminar un 29 de Noviembre del año 2025.
+Pero este proyecto no pudo ser culminado sin la guía de nuestro maestro, el ingeniero Sagastegui Chigne, Hernan, quien con sus consejos de mejora, hemos podido culminar con éxito nuestro producto del presente año.
 
 # OBJETIVO DEL PROYECTO 
 -Desarrollar una herramienta predictiva basada en datos para detectar riesgo de depresión en estudiantes universitarios, facilitando intervenciones preventivas y optimizando estrategias institucionales de atención.
@@ -67,8 +61,7 @@ MODELO PREDICTIVO DE INTERVENCIÓN PARA LA DEPRESIÓN EN ESTUDIANTES DE GRADO SU
     ```
     pnpm dev
    ```
-
-USO
+# USO
      - Accede al dashboard web para explorar datos, visualizar estadísticas y realizar predicciones individualizadas de riesgo de depresión.
 
      - Usa el formulario para ingresar variables clave y obtener el resultado del modelo junto con recomendaciones personalizadas.
